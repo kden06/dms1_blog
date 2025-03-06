@@ -6,4 +6,4 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-![description](file_w01s1/file_IMG_2021.png)
+![image 1](/subfolder_w01s1/image 1.png)
